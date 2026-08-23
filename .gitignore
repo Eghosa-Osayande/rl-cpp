@@ -1,0 +1,7 @@
+.trash
+.venv
+z.png
+.DS_Store
+__pycache__
+experiments
+poster

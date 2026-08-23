@@ -1,0 +1,4 @@
+using_p100=False
+if running_in_kaggle() and using_p100:
+    ! pip uninstall -y torch torchvision torchaudio
+    ! pip install --no-cache-dir torch==2.10.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
