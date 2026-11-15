@@ -4,7 +4,7 @@
 
 A comparison of **planning-oriented** and **control-oriented** action spaces for deep reinforcement learning-based coverage path planning (CPP) in unknown environments.
 
-This project extends the approach of [Jonnarth et al. (2024)](https://proceedings.mlr.press/v235/jonnarth24a.html), replacing low-level velocity commands with higher-level direction-and-reach motion primitives.
+This project extends the approach of [Jonnarth et al. (2024)](https://github.com/arvijj/rl-cpp), replacing low-level velocity commands with higher-level direction-and-reach motion primitives.
 
 ## Overview
 
